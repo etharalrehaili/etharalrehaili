@@ -1,7 +1,5 @@
 # Hi, I'm Ethar 👋
 
----
-
 ## 👨‍💻 About Me
 I'm a Software developer, passionate about creating beautiful and functional apps that provide great user experiences. I enjoy learning new technologies and improving my skills every day.
 
@@ -15,10 +13,10 @@ I'm a Software developer, passionate about creating beautiful and functional app
 ## 🛠️ Languages and Tools
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -43,7 +41,6 @@ I'm a Software developer, passionate about creating beautiful and functional app
 ---
 
 ## 📫 Contact Me
-- Email: your.email@example.com  
 - LinkedIn: [linkedin.com/in/etharalrehaili](https://www.linkedin.com/in/ethar-alrehaili/)  
 - Portfolio: [etharalrehaili.com](https://etharalrehaili.com/)
 
