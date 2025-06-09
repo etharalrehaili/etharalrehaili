@@ -27,7 +27,7 @@ I'm a Software developer, passionate about creating beautiful and functional app
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Pinned Projects 
 
 [![Expense Tracker App](https://github-readme-stats.vercel.app/api/pin/?username=etharalrehaili&repo=Expense_Tracker_App&theme=radical)](https://github.com/etharalrehaili/Expense_Tracker_App)
 [![Sawa Application](https://github-readme-stats.vercel.app/api/pin/?username=etharalrehaili&repo=SawaApplication&theme=radical)](https://github.com/etharalrehaili/SawaApplication)
